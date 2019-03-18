@@ -1,0 +1,78 @@
+.toolbar{
+    background: orangered !important;
+}
+ .page__background{
+    background-color: black;
+} 
+.center{
+    
+   text-align: center;
+   text-transform: capitalize;
+}
+.center-2{
+      /* padding: 20px;
+    padding-left: 16px;
+    padding-right: 16px; */
+    background-color: #6002ee;
+    color: #eee;
+    margin-top: -10px;
+}
+.title{
+   text-transform: capitalize !important;
+   margin: 0px !important;
+   font-size: 20px !important;
+}
+.card{
+    border: 2px ;
+    border-radius: 5px;
+    border-left-style: ridge;
+    border-left-color: orangered;
+    height: 100px;
+}
+/* .users{
+    width: 150px;
+    float: left;
+} */
+
+.icon{
+    margin-top: 10px;
+    float: right;
+    font-size: 20px;
+}
+.close{
+    float: left;
+}
+.check{
+    float: right;
+}
+ons-select{
+    width: 90vw !important;
+    
+}
+.textarea{
+    background-color: black;
+    color: darkgrey; 
+    border: 1px solid orangered;
+    border-radius: 10px;
+    height: 120vw;
+    width: 300px
+}
+.text-input{
+    border-bottom: 1px solid orangered;
+    color: darkgrey;
+    background: none !important;    
+}
+.fab__icon{
+    background-color: orangered !important;
+}
+.select-input{
+    border-bottom: solid 1px orangered;
+    color: darkgrey;
+    
+}
+.back-button__icon{
+    fill: black;
+}
+.fa-check{
+    font-size: 30px;
+}
